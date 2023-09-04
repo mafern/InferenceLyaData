@@ -1,5 +1,5 @@
 # InferenceLyaData
-Emulator files and MCMC chains from arXiv:xxxx.xxxxx, '*Inference via the Lyman-a Forest*'
+Emulator files and MCMC chains from arXiv:xxxx.xxxxx, '*Cosmological Constraints from the eBOSS Lyman-a Forest using the PRIYA Simulations*'
 
 ## Contents
 
@@ -10,4 +10,4 @@ Included in the Emulator_Files directory are all of the necessary files to train
 - LF/HF leave-one-out errors (*loo_t0.hdf5*, *loo_fps.hdf5* and *hires/loo_t0.hdf5*, *hires/loo_fps.hdf5*)
 - and a directory containing a pre-trained multi-fidelity emulator (optimized hyperparameters for the GP framework), *trained_mf*
 
-Included in the Chains directory are all of the MCMC chains from the paper, in three sub-directories: *meant-only*, *fps-only*, and *fps-meant*.
+Included in the Chains directory are the MCMC chains for the main results from the paper, in three sub-directories: *meant-only*, *fps-only*, and *fps-meant*.
