@@ -1,5 +1,5 @@
 # InferenceLyaData
-Emulator files and MCMC chains from arXiv:xxxx.xxxxx, '*Cosmological Constraints from the eBOSS Lyman-a Forest using the PRIYA Simulations*'
+Emulator files and MCMC chains from arXiv:[2309.03943](https://arxiv.org/abs/2309.03943), '*Cosmological Constraints from the eBOSS Lyman-a Forest using the PRIYA Simulations*'
 
 ## Contents
 
