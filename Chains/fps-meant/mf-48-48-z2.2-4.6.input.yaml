@@ -18,7 +18,6 @@ likelihood:
     tau_thresh: 1000000.0
     sim_meant: null
     use_meant: true
-    meant_fac: 8.38
     include_emu: false
     data_power: null
 params:
