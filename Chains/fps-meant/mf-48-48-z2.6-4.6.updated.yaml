@@ -13,7 +13,6 @@ likelihood:
     tau_thresh: 1000000.0
     use_meant: true
     sim_meant: null
-    meant_fac: 8.07
     traindir: ../dtau-48-48/trained_mf
     data_power: null
     include_emu: false
